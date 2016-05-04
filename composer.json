@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A beautiful template engine for PHP in Django style",
     "keywords": ["template","engine","django"],
-    "homepage": "http://github.com/paudebau/h2o-php",
+    "homepage": "http://github.com/DanielHabib/h2o-php",
     "license": "MIT",
     "authors": [
         {
